@@ -1,0 +1,10 @@
+version: "1.0.0"
+
+outputs:
+  output_dir: "./output"
+
+inputs:
+  input_dir: "./"
+
+variables:
+  print_test: "hello world"
